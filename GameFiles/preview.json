@@ -1,0 +1,14 @@
+{
+	"locations":[{
+		"objs":{
+			"gameobjects":[]
+		},
+		
+		"loc":15000016
+	}],
+	
+	"free_timer":{
+		"ticks":216000,
+		"remaining":43669,
+		"timestamp":10799}
+}
